@@ -1,0 +1,2 @@
+rootProject.name = 'Hellboy_TTS'
+include ':app'
